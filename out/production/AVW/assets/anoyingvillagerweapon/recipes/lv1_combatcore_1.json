@@ -1,0 +1,30 @@
+{
+  "type": "forge:ore_shaped",
+  "mirror": true,
+  "pattern": [
+    "222",
+    "131",
+    "414"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone_sword",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:gold_nugget",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:obsidian",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:blaze_rod",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "fivecombat:lv1_combatcore"
+  }
+}

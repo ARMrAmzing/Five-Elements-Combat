@@ -1,0 +1,100 @@
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 4/7/20 6:14 PM
+Description: Ticking entity
+
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at net.minecraft.world.Explosion.doExplosionA(Explosion.java:109)
+	at net.minecraft.world.WorldServer.newExplosion(WorldServer.java:1244)
+	at net.minecraft.world.World.createExplosion(World.java:2502)
+	at net.minecraft.entity.monster.EntityCreeper.explode(EntityCreeper.java:310)
+	at net.minecraft.entity.monster.EntityCreeper.onUpdate(EntityCreeper.java:186)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2174)
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:871)
+	at net.minecraft.world.World.updateEntity(World.java:2133)
+	at net.minecraft.world.World.updateEntities(World.java:1934)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:643)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:842)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.world.Explosion.doExplosionA(Explosion.java:109)
+	at net.minecraft.world.WorldServer.newExplosion(WorldServer.java:1244)
+	at net.minecraft.world.World.createExplosion(World.java:2502)
+	at net.minecraft.entity.monster.EntityCreeper.explode(EntityCreeper.java:310)
+	at net.minecraft.entity.monster.EntityCreeper.onUpdate(EntityCreeper.java:186)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2174)
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:871)
+	at net.minecraft.world.World.updateEntity(World.java:2133)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:creeper (net.minecraft.entity.monster.EntityCreeper)
+	Entity ID: 8633
+	Entity Name: 爬行者
+	Entity's Exact location: -741.50, 63.00, 731.50
+	Entity's Block location: World: (-742,63,731), Chunk: (at 10,3,11 in -47,45; contains blocks -752,0,720 to -737,255,735), Region: (-2,1; contains chunks -64,32 to -33,63, blocks -1024,0,512 to -513,255,1023)
+	Entity's Momentum: 19.05, 4.73, 20.42
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.updateEntities(World.java:1934)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:643)
+
+-- Affected level --
+Details:
+	Level name: 新的世界
+	All players: 1 total; [EntityPlayerMP['Player103'/373, l='新的世界', x=-739.01, y=64.25, z=733.06]]
+	Chunk stats: ServerChunkCache: 2391 Drop: 0
+	Level seed: -6218069311393536672
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-236,64,36), Chunk: (at 4,4,4 in -15,2; contains blocks -240,0,32 to -225,255,47), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 178807 game time, 178807 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 113951 (now: false), thunder time: 12237 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:842)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 131097536 bytes (125 MB) / 954728448 bytes (910 MB) up to 954728448 bytes (910 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                    | Version      | Source                           | Signature |
+	|:------ |:--------------------- |:------------ |:-------------------------------- |:--------- |
+	| LCHIJA | minecraft             | 1.12.2       | minecraft.jar                    | None      |
+	| LCHIJA | mcp                   | 9.42         | minecraft.jar                    | None      |
+	| LCHIJA | FML                   | 8.0.99.99    | forgeSrc-1.12.2-14.23.5.2847.jar | None      |
+	| LCHIJA | forge                 | 14.23.5.2847 | forgeSrc-1.12.2-14.23.5.2847.jar | None      |
+	| LCHIJA | anoyingvillagerweapon | 20200401b    | AVW                              | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['Player103'/373, l='新的世界', x=-739.01, y=64.25, z=733.06]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

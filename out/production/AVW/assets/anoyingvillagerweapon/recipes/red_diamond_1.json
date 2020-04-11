@@ -1,0 +1,22 @@
+{
+  "type": "forge:ore_shaped",
+  "mirror": true,
+  "pattern": [
+    "222",
+    "212",
+    "222"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:redstone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "fivecombat:red_diamond"
+  }
+}

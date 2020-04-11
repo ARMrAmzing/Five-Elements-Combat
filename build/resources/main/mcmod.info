@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anoyingvillagerweapon",
+  "name": "Anoying Villagers Weapons",
+  "description": "It's a mod about the weapons in Anoying Villagers.",
+  "version": "1.0.0-Beta",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AmazingRabbit模组�?发工作室(From China)"],
+  "credits": "MrFudgeMonkeyz Mr.Colder",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,483 @@
+Unsupposrted library path: K:\AVW\build\classes\api
+Unsupposrted library path: K:\AVW\build\resources\api
+Symbol range map extraction starting
+Processing 11 files
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java" md5: 3ab30c823cdec1b9f0c5a62722609bcc
+@|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|8|47|com.AmazingRabbit.anoyingvillagerweapon|package|com.AmazingRabbit.anoyingvillagerweapon|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|523|526|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|527|532|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|535|556|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|557|562|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|564|568|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|571|592|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|593|597|NAME|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|NAME
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|599|606|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|609|630|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|631|638|VERSION|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|VERSION
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|654|675|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|704|710|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|704|710|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|711|716|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID|
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|769|775|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|769|775|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|776|780|NAME|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|NAME|
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|835|841|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|835|841|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|842|849|VERSION|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|VERSION|
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|934|955|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|873|885|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|886|907|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|908|913|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|934|955|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|956|964|instance|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|instance|
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1151|1162|CommonProxy|class|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|974|984|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|985|995|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1058|1068|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1151|1162|CommonProxy|class|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1163|1168|proxy|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|proxy|
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1191|1197|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1191|1197|Logger|class|org.apache.logging.log4j.Logger|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1198|1204|logger|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|logger|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1278|1283|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1214|1226|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1244|1251|preInit|method|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1252|1277|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1296|1302|logger|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|logger
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1305|1310|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1311|1320|getModLog|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getModLog|()Lorg/apache/logging/log4j/Logger;
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1333|1338|proxy|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|proxy
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1339|1346|preInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1347|1352|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1428|1433|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1370|1382|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1400|1404|init|method|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1405|1427|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1446|1451|proxy|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|proxy
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1452|1456|init|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1457|1462|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1544|1549|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1478|1490|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1508|1516|postInit|method|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1517|1543|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1562|1567|proxy|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|proxy
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1568|1576|postInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java|1577|1582|event|param|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/AnoyingVillagerWeapon.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java" md5: f314d08a278b1805407ab44350713553
+@|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|8|52|com.AmazingRabbit.anoyingvillagerweapon.item|package|com.AmazingRabbit.anoyingvillagerweapon.item|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|224|240|Level1CombatCore|class|com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|249|253|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|282|288|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|282|288|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|289|293|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore|name|
+   Method Start: Level1CombatCore()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|326|342|Level1CombatCore|method|com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore|Level1CombatCore|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|360|375|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|376|380|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|397|415|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|416|437|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|438|443|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|448|452|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|469|483|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|484|496|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java|497|501|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+   Method End: Level1CombatCore()V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/Level1CombatCore.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java" md5: e1cece296ee8f849c0c60b36b6da7bff
+@|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|8|52|com.AmazingRabbit.anoyingvillagerweapon.item|package|com.AmazingRabbit.anoyingvillagerweapon.item|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|224|240|Level2CombatCore|class|com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|249|253|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|282|288|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|282|288|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|289|293|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore|name|
+   Method Start: Level2CombatCore()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|326|342|Level2CombatCore|method|com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore|Level2CombatCore|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|360|375|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|376|380|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|397|415|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|416|437|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|438|443|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|448|452|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|469|483|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|484|496|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java|497|501|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+   Method End: Level2CombatCore()V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/Level2CombatCore.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java" md5: f3347a8121b3bad4e8861b04b4c31af6
+@|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|8|52|com.AmazingRabbit.anoyingvillagerweapon.item|package|com.AmazingRabbit.anoyingvillagerweapon.item|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|224|240|Level3CombatCore|class|com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|249|253|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|282|288|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|282|288|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|289|293|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore|name|
+   Method Start: Level3CombatCore()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|326|342|Level3CombatCore|method|com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore|Level3CombatCore|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|360|375|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|376|380|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|397|415|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|416|437|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|438|443|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|448|452|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|469|483|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|484|496|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java|497|501|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+   Method End: Level3CombatCore()V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/Level3CombatCore.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java" md5: 83bae9d7ff907568428c7faa81345d29
+@|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|8|52|com.AmazingRabbit.anoyingvillagerweapon.item|package|com.AmazingRabbit.anoyingvillagerweapon.item|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|325|340|PrismarineArmor|class|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|349|358|ItemArmor|class|net.minecraft.item.ItemArmor|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|388|401|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|388|401|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|402|417|PRISMARINEARMOR|field|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|PRISMARINEARMOR|
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|420|430|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|431|447|addArmorMaterial|method|net.minecraftforge.common.util.EnumHelper|addArmorMaterial|(Ljava/lang/String;Ljava/lang/String;I[IILnet/minecraft/util/SoundEvent;F)Lnet/minecraft/item/ItemArmor$ArmorMaterial;
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|467|488|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|489|494|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|568|579|SoundEvents|class|net.minecraft.init.SoundEvents|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|580|604|ENTITY_LIGHTNING_THUNDER|field|net.minecraft.init.SoundEvents|ENTITY_LIGHTNING_THUNDER
+   Method Start: PrismarineArmor(Lnet/minecraft/inventory/EntityEquipmentSlot;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|661|676|equipmentSlotIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|PrismarineArmor|(Lnet/minecraft/inventory/EntityEquipmentSlot;)V|equipmentSlotIn|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|625|640|PrismarineArmor|method|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|PrismarineArmor|(Lnet/minecraft/inventory/EntityEquipmentSlot;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|641|660|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|700|715|PRISMARINEARMOR|field|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|PRISMARINEARMOR
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java|718|733|equipmentSlotIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|PrismarineArmor|(Lnet/minecraft/inventory/EntityEquipmentSlot;)V|equipmentSlotIn|0
+   Method End: PrismarineArmor(Lnet/minecraft/inventory/EntityEquipmentSlot;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineArmor.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java" md5: 7cf165f8af894a026f6908b2123b07c2
+@|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|8|52|com.AmazingRabbit.anoyingvillagerweapon.item|package|com.AmazingRabbit.anoyingvillagerweapon.item|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|436|456|PrismarineChestplate|class|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|465|480|PrismarineArmor|class|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineArmor|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|504|510|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|504|510|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|511|515|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|name|
+   Method Start: PrismarineChestplate()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|554|574|PrismarineChestplate|method|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|PrismarineChestplate|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|599|618|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|619|624|CHEST|field|net.minecraft.inventory.EntityEquipmentSlot|CHEST
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|641|656|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|657|661|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|678|696|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|697|718|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|719|724|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|733|737|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|754|768|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|769|781|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|782|788|COMBAT|field|net.minecraft.creativetab.CreativeTabs|COMBAT
+   Method End: PrismarineChestplate()V
+   Method Start: addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|857|862|stack|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|stack|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|870|877|worldIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|worldIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|892|899|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|914|920|flagIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|flagIn|3
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|806|814|Override|class|java.lang.Override|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|832|846|addInformation|method|net.minecraft.item.Item|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|847|856|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|864|869|World|class|net.minecraft.world.World|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|879|883|List|class|java.util.List|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|884|890|String|class|java.lang.String|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|901|913|ITooltipFlag|class|net.minecraft.client.util.ITooltipFlag|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|936|942|flagIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|flagIn|3
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|943|953|isAdvanced|method|net.minecraft.client.util.ITooltipFlag|isAdvanced|()Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|967|974|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|975|978|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|993|1000|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1001|1004|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1023|1030|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1031|1034|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1053|1060|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1061|1064|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1079|1086|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1087|1090|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1114|1121|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1122|1125|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1149|1156|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1157|1160|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1185|1192|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1193|1196|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1248|1255|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1256|1259|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1260|1264|I18n|class|net.minecraft.client.resources.I18n|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1265|1271|format|method|net.minecraft.client.resources.I18n|format|(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java|1277|1295|getUnlocalizedName|method|net.minecraft.item.Item|getUnlocalizedName|()Ljava/lang/String;
+   Method End: addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/PrismarineChestplate.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java" md5: 9e9925afdecd2806804a9fca0c84057b
+@|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|8|52|com.AmazingRabbit.anoyingvillagerweapon.item|package|com.AmazingRabbit.anoyingvillagerweapon.item|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|727|741|SteveMegaSword|class|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|750|759|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|787|799|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|787|799|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|800|814|STEVEMEGASWORD|field|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|STEVEMEGASWORD|
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|817|827|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|828|843|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|910|916|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|910|916|String|class|java.lang.String|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|917|921|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|name|
+   Method Start: SteveMegaSword()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|956|970|SteveMegaSword|method|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|SteveMegaSword|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|990|1004|STEVEMEGASWORD|field|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|STEVEMEGASWORD
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1021|1036|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1037|1041|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1058|1076|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1077|1098|AnoyingVillagerWeapon|class|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1099|1104|MODID|field|com.AmazingRabbit.anoyingvillagerweapon.AnoyingVillagerWeapon|MODID
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1113|1117|name|field|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|name
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1134|1148|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1149|1161|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1162|1168|COMBAT|field|net.minecraft.creativetab.CreativeTabs|COMBAT
+   Method End: SteveMegaSword()V
+   Method Start: addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1237|1242|stack|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|stack|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1250|1257|worldIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|worldIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1272|1279|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1294|1300|flagIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|flagIn|3
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1186|1194|Override|class|java.lang.Override|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1212|1226|addInformation|method|net.minecraft.item.Item|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1227|1236|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1244|1249|World|class|net.minecraft.world.World|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1259|1263|List|class|java.util.List|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1264|1270|String|class|java.lang.String|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1281|1293|ITooltipFlag|class|net.minecraft.client.util.ITooltipFlag|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1316|1322|flagIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|flagIn|3
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1323|1333|isAdvanced|method|net.minecraft.client.util.ITooltipFlag|isAdvanced|()Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1347|1354|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1355|1358|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1373|1380|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1381|1384|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1403|1410|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1411|1414|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1433|1440|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1441|1444|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1459|1466|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1467|1470|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1495|1502|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1503|1506|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1532|1539|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1540|1543|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1597|1604|tooltip|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|addInformation|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V|tooltip|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1605|1608|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1609|1613|I18n|class|net.minecraft.client.resources.I18n|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1614|1620|format|method|net.minecraft.client.resources.I18n|format|(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1626|1644|getUnlocalizedName|method|net.minecraft.item.Item|getUnlocalizedName|()Ljava/lang/String;
+   Method End: addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V
+   Method Start: onItemRightClick(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1757|1764|worldIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|worldIn|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1779|1787|playerIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|playerIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1798|1804|handIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|handIn|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1689|1697|Override|class|java.lang.Override|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1710|1722|ActionResult|class|net.minecraft.util.ActionResult|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1723|1732|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1734|1750|onItemRightClick|method|net.minecraft.item.Item|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1751|1756|World|class|net.minecraft.world.World|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1766|1778|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1789|1797|EnumHand|class|net.minecraft.util.EnumHand|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1822|1831|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1844|1852|playerIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|playerIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1853|1864|getHeldItem|method|net.minecraft.entity.EntityLivingBase|getHeldItem|(Lnet/minecraft/util/EnumHand;)Lnet/minecraft/item/ItemStack;
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1865|1871|handIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|handIn|2
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1885|1897|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1907|1915|playerIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|playerIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|1944|1953|getHealth|method|net.minecraft.entity.EntityLivingBase|getHealth|()F
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2010|2025|experienceLevel|field|net.minecraft.entity.player.EntityPlayer|experienceLevel
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2079|2097|addExperienceLevel|method|net.minecraft.entity.player.EntityPlayer|addExperienceLevel|(I)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2127|2136|setHealth|method|net.minecraft.entity.EntityLivingBase|setHealth|(F)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2159|2166|worldIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|worldIn|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2167|2176|playSound|method|net.minecraft.world.World|playSound|(Lnet/minecraft/entity/player/EntityPlayer;DDDLnet/minecraft/util/SoundEvent;Lnet/minecraft/util/SoundCategory;FF)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2178|2190|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2198|2206|playerIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|playerIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2207|2211|posX|field|net.minecraft.entity.Entity|posX
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2213|2221|playerIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|playerIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2222|2226|posY|field|net.minecraft.entity.Entity|posY
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2228|2236|playerIn|param|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|onItemRightClick|(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;|playerIn|1
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2237|2241|posZ|field|net.minecraft.entity.Entity|posZ
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2243|2254|SoundEvents|class|net.minecraft.init.SoundEvents|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2255|2282|ENTITY_ELDER_GUARDIAN_CURSE|field|net.minecraft.init.SoundEvents|ENTITY_ELDER_GUARDIAN_CURSE
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2284|2297|SoundCategory|class|net.minecraft.util.SoundCategory|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2298|2305|PLAYERS|field|net.minecraft.util.SoundCategory|PLAYERS
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2321|2329|itemRand|field|net.minecraft.item.Item|itemRand
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2330|2339|nextFloat|method|java.util.Random|nextFloat|()F
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2407|2419|ActionResult|class|net.minecraft.util.ActionResult|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2420|2429|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2431|2447|EnumActionResult|class|net.minecraft.util.EnumActionResult|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java|2448|2455|SUCCESS|field|net.minecraft.util.EnumActionResult|SUCCESS
+   Method End: onItemRightClick(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/item/SteveMegaSword.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java" md5: dc75ce88fe9156cfaa8fb18f9d54e066
+@|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|8|53|com.AmazingRabbit.anoyingvillagerweapon.proxy|package|com.AmazingRabbit.anoyingvillagerweapon.proxy|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy
+   @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|356|367|ClientProxy|class|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|376|387|CommonProxy|class|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|false
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|456|461|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|396|404|Override|class|java.lang.Override|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|422|429|preInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|430|455|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|479|486|preInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|487|492|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|508|521|ModelRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|false
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|594|599|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|540|548|Override|class|java.lang.Override|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|566|570|init|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|571|593|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|617|621|init|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|622|627|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|707|712|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|645|653|Override|class|java.lang.Override|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|671|679|postInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|680|706|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|730|738|postInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java|739|744|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.proxy.ClientProxy
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/proxy/ClientProxy.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java" md5: ecee466c6e8be26262f64562969b064c
+@|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|8|53|com.AmazingRabbit.anoyingvillagerweapon.proxy|package|com.AmazingRabbit.anoyingvillagerweapon.proxy|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy
+   @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|356|367|CommonProxy|class|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|false
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|423|428|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|389|396|preInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|397|422|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|444|457|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|515|520|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|487|491|init|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|492|514|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|585|590|event|param|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|549|557|postInit|method|com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java|558|584|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.proxy.CommonProxy
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/proxy/CommonProxy.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java" md5: 12865b912009be0bf6822fb5ab49053d
+@|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|8|56|com.AmazingRabbit.anoyingvillagerweapon.register|package|com.AmazingRabbit.anoyingvillagerweapon.register|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|659|681|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|696|709|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|737|746|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|737|746|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|747|761|STEVEMEGASWORD|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|STEVEMEGASWORD|
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|768|782|SteveMegaSword|class|com.AmazingRabbit.anoyingvillagerweapon.item.SteveMegaSword|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|811|820|ItemArmor|class|net.minecraft.item.ItemArmor|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|811|820|ItemArmor|class|net.minecraft.item.ItemArmor|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|821|841|PRISMARINECHESTPLATE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|PRISMARINECHESTPLATE|
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|848|868|PrismarineChestplate|class|com.AmazingRabbit.anoyingvillagerweapon.item.PrismarineChestplate|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|897|901|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|897|901|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|902|918|LEVEL1COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL1COMBATCORE|
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|925|941|Level1CombatCore|class|com.AmazingRabbit.anoyingvillagerweapon.item.Level1CombatCore|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|970|974|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|970|974|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|975|991|LEVEL2COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL2COMBATCORE|
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|998|1014|Level2CombatCore|class|com.AmazingRabbit.anoyingvillagerweapon.item.Level2CombatCore|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1043|1047|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1043|1047|Item|class|net.minecraft.item.Item|false
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1048|1064|LEVEL3COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL3COMBATCORE|
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1071|1087|Level3CombatCore|class|com.AmazingRabbit.anoyingvillagerweapon.item.Level3CombatCore|false
+   Method Start: ItemsRegister()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1105|1118|ItemsRegister|method|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|ItemsRegister|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1132|1146|MinecraftForge|class|net.minecraftforge.common.MinecraftForge|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1147|1156|EVENT_BUS|field|net.minecraftforge.common.MinecraftForge|EVENT_BUS
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1157|1165|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+   Method End: ItemsRegister()V
+   Method Start: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1270|1275|event|param|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1188|1202|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1227|1240|registerItems|method|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1241|1263|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1264|1268|Item|class|net.minecraft.item.Item|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1288|1293|event|param|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1294|1305|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1308|1319|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1338|1352|STEVEMEGASWORD|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|STEVEMEGASWORD
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1353|1373|PRISMARINECHESTPLATE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|PRISMARINECHESTPLATE
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1374|1390|LEVEL1COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL1COMBATCORE
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1391|1407|LEVEL2COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL2COMBATCORE
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java|1408|1424|LEVEL3COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL3COMBATCORE
+   Method End: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/register/ItemsRegister.java"
+
+startProcessing "com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java" md5: 3a6af10fbebdb86a7ff67bf451b15fb8
+@|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|8|56|com.AmazingRabbit.anoyingvillagerweapon.register|package|com.AmazingRabbit.anoyingvillagerweapon.register|(file)
+Class Start: com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister
+   @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|484|497|ModelRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|false
+   Method Start: ModelRegister()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|512|525|ModelRegister|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|ModelRegister|()V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|538|552|MinecraftForge|class|net.minecraftforge.common.MinecraftForge|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|553|562|EVENT_BUS|field|net.minecraftforge.common.MinecraftForge|EVENT_BUS
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|563|571|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+   Method End: ModelRegister()V
+   Method Start: registerItemModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|662|667|event|param|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|592|606|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|624|642|registerItemModels|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModels|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|643|661|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|680|697|registerItemModel|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|698|711|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|712|726|STEVEMEGASWORD|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|STEVEMEGASWORD
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|738|755|registerItemModel|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|756|769|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|770|790|PRISMARINECHESTPLATE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|PRISMARINECHESTPLATE
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|802|819|registerItemModel|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|820|833|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|834|850|LEVEL1COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL1COMBATCORE
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|862|879|registerItemModel|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|880|893|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|894|910|LEVEL2COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL2COMBATCORE
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|922|939|registerItemModel|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|940|953|ItemsRegister|class|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|954|970|LEVEL3COMBATCORE|field|com.AmazingRabbit.anoyingvillagerweapon.register.ItemsRegister|LEVEL3COMBATCORE
+   Method End: registerItemModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+   Method Start: registerItemModel(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1021|1025|item|param|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V|item|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|998|1015|registerItemModel|method|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1016|1020|Item|class|net.minecraft.item.Item|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1038|1049|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1050|1080|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1081|1085|item|param|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V|item|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1094|1115|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1116|1120|item|param|com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister|registerItemModel|(Lnet/minecraft/item/Item;)V|item|0
+      @|com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java|1121|1136|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerItemModel(Lnet/minecraft/item/Item;)V
+Class End  : com.AmazingRabbit.anoyingvillagerweapon.register.ModelRegister
+endProcessing "com/AmazingRabbit/anoyingvillagerweapon/register/ModelRegister.java"
+

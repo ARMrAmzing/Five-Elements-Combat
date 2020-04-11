@@ -1,0 +1,34 @@
+{
+  "type": "forge:ore_shaped",
+  "mirror": true,
+  "pattern": [
+    "131",
+    "222",
+    "454"
+  ],
+  "key": {
+    "1": {
+      "item": "fivecombat:lv3_combatcore",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:prismarine",
+      "data": 1
+    },
+    "3": {
+      "item": "minecraft:diamond_chestplate",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:sponge",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:water_bucket",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "fivecombat:prismarineboots"
+  }
+}
