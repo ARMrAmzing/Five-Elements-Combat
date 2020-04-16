@@ -177,7 +177,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module filepath="$PROJECT_DIR$/AVW.iml" fileurl="file://$PROJECT_DIR$/AVW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Five-Elements-Combat.iml" filepath="$PROJECT_DIR$/Five-Elements-Combat.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
@@ -185,6 +185,9 @@
   </component>
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
   </component>
   <component name="masterDetails">
     <states>

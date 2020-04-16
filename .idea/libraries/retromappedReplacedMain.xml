@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="retromappedReplacedMain">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/retromapping/retromappedReplacedMain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

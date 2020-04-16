@@ -4,22 +4,22 @@ import com.AmazingRabbit.fivecombat.FiveCombat;
 import net.minecraft.client.resources.I18n;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.entity.monster.EntityMob;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.MobEffects;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemSword;
 import net.minecraft.potion.PotionEffect;
-import net.minecraft.util.ActionResult;
-import net.minecraft.util.EnumActionResult;
-import net.minecraft.util.EnumHand;
-import net.minecraft.util.SoundCategory;
+import net.minecraft.util.*;
 import net.minecraft.world.World;
 import net.minecraftforge.common.util.EnumHelper;
 
 import java.util.List;
 
 public class SteveMegaSword extends ItemSword {
+
     public static final ToolMaterial STEVEMEGASWORD = EnumHelper.addToolMaterial("stevemegasword", 1, 5000, 5.0F, 60.0F, 100);
     private static String name = "stevemegasword";
 
@@ -45,6 +45,14 @@ public class SteveMegaSword extends ItemSword {
         }
         else{
             tooltip.add(I18n.format(this.getUnlocalizedName()+".1."+"desc"));
+            tooltip.add("");
+            tooltip.add(I18n.format(this.getUnlocalizedName()+".3."+"desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName()+".4."+"desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName()+".5."+"desc"));
+            tooltip.add("");
+            tooltip.add(I18n.format(this.getUnlocalizedName()+".7."+"desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName()+".8."+"desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName()+".9."+"desc"));
         }
     }
 

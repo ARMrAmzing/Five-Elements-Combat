@@ -14,6 +14,7 @@ public class ModelRegister {
     @SubscribeEvent
     public void registerItemModels(ModelRegistryEvent event) {
         registerItemModel(ItemsRegister.STEVEMEGASWORD);
+        registerItemModel(ItemsRegister.EXTRAENERGYSWORD);
         registerItemModel(ItemsRegister.EMERALDHELMET);
         registerItemModel(ItemsRegister.EMERALDCHESTPLATE);
         registerItemModel(ItemsRegister.EMERALDLEGGINGS);

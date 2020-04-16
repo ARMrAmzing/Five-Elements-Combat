@@ -1,0 +1,34 @@
+{
+  "type": "forge:ore_shaped",
+  "mirror": true,
+  "pattern": [
+    "222",
+    "131",
+    "454"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_sword",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:gold_ingot",
+      "data": 0
+    },
+    "3": {
+      "item": "fivecombat:lv1_combatcore",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 5
+    },
+    "5": {
+      "item": "minecraft:diamond_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "fivecombat:lv2_combatcore"
+  }
+}

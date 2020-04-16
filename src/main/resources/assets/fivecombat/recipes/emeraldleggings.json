@@ -1,0 +1,26 @@
+{
+  "type": "forge:ore_shaped",
+  "mirror": true,
+  "pattern": [
+    "111",
+    "121",
+    "131"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:emerald_block",
+      "data": 0
+    },
+    "2": {
+      "item": "fivecombat:lv2_combatcore",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:shulker_shell",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "fivecombat:emeraldleggings"
+  }
+}

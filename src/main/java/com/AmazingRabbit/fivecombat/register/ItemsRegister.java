@@ -12,6 +12,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 @Mod.EventBusSubscriber
 public class ItemsRegister {
     public static final ItemSword STEVEMEGASWORD = new SteveMegaSword();
+    public static final ItemSword EXTRAENERGYSWORD = new ExtraEnergySword();
     public static final ItemArmor EMERALDHELMET = new EmeraldHelmet();
     public static final ItemArmor EMERALDCHESTPLATE = new EmeraldChestplate();
     public static final ItemArmor EMERALDLEGGINGS = new EmeraldLeggings();
@@ -32,7 +33,7 @@ public class ItemsRegister {
     @SubscribeEvent
     public static void registerItems(RegistryEvent.Register<Item> event) {
         event.getRegistry().registerAll(
-                STEVEMEGASWORD,PRISMARINEHELMET,PRISMARINECHESTPLATE,PRISMARINELEGGINGS,PRISMARINEBOOTS,LEVEL1COMBATCORE,LEVEL2COMBATCORE,LEVEL3COMBATCORE,
+                STEVEMEGASWORD,EXTRAENERGYSWORD,PRISMARINEHELMET,PRISMARINECHESTPLATE,PRISMARINELEGGINGS,PRISMARINEBOOTS,LEVEL1COMBATCORE,LEVEL2COMBATCORE,LEVEL3COMBATCORE,
                 EMERALDHELMET,EMERALDCHESTPLATE,EMERALDLEGGINGS,EMERALDBOOTS,REDDIAMOND
         );
     }

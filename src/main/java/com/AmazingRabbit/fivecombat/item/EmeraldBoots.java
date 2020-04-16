@@ -35,6 +35,14 @@ public class EmeraldBoots extends EmeraldArmor {
             tooltip.add("§8反抗者联盟制造");
         } else {
             tooltip.add(I18n.format(this.getUnlocalizedName() + ".1." + "desc"));
+            tooltip.add("");
+            tooltip.add(I18n.format(this.getUnlocalizedName() + ".3." + "desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName() + ".4." + "desc"));
+            tooltip.add("");
+            tooltip.add(I18n.format(this.getUnlocalizedName() + ".6." + "desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName() + ".7." + "desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName() + ".8." + "desc"));
+            tooltip.add(I18n.format(this.getUnlocalizedName() + ".9." + "desc"));
         }
     }
 }
