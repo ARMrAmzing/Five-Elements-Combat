@@ -19,6 +19,7 @@ public class ModelRegister {
         registerItemModel(ItemsRegister.EMERALDCHESTPLATE);
         registerItemModel(ItemsRegister.EMERALDLEGGINGS);
         registerItemModel(ItemsRegister.EMERALDBOOTS);
+        registerItemModel(ItemsRegister.EMERALDSWORD);
         registerItemModel(ItemsRegister.PRISMARINEHELMET);
         registerItemModel(ItemsRegister.PRISMARINECHESTPLATE);
         registerItemModel(ItemsRegister.PRISMARINELEGGINGS);

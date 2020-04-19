@@ -2,118 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdcd40f4-1db8-465d-96ab-a262a55edb06" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/lang/en_us.lang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/lang/zh_cn.lang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/emeraldboots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/emeraldchestplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/emeraldhelmet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/emeraldleggings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/lv1_combatcore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/lv2_combatcore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/lv3_combatcore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/prismarinechestplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/prismarineleggings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/models/item/stevemegasword.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/lv1_combatcore_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/lv2_combatcore_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/lv3_combatcore_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/prismarineboots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/prismarinechestplate_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/prismarinehelmet_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/prismarineleggings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/red_diamond_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/recipes/stevemegasword_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/emeraldboots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/emeraldchestplate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/emeraldhelmet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/emeraldleggings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/lv1_combatcore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/lv2_combatcore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/lv3_combatcore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/prismarinechestplate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/prismarineleggings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/items/stevemegasword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/models/armor/emerald_layer_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/models/armor/emerald_layer_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/models/armor/prismarine_layer_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/assets/fivecombat/textures/models/armor/prismarine_layer_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/mcmod.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/pack.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2020-04-13_21.28.25-client.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-08-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-08-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-13-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-13-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-13-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-14-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-14-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-15-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-15-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-15-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-15-4.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2020-04-16-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/advancements/29308414-ff71-3cdd-a4fa-c0ef7b0196d4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/advancements/67e4079e-4cf5-3669-9343-c8d0c03a90f2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/advancements/a205b8da-efc6-37ad-8e1d-84c0239cdd21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/advancements/bf5f6cc7-27dd-3f51-bf40-66ad2b54becf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/advancements/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/playerdata/29308414-ff71-3cdd-a4fa-c0ef7b0196d4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/playerdata/67e4079e-4cf5-3669-9343-c8d0c03a90f2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/playerdata/a205b8da-efc6-37ad-8e1d-84c0239cdd21.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/playerdata/bf5f6cc7-27dd-3f51-bf40-66ad2b54becf.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/playerdata/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/stats/29308414-ff71-3cdd-a4fa-c0ef7b0196d4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/stats/67e4079e-4cf5-3669-9343-c8d0c03a90f2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/stats/a205b8da-efc6-37ad-8e1d-84c0239cdd21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/stats/bf5f6cc7-27dd-3f51-bf40-66ad2b54becf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/新的世界-/stats/d0f5fb0c-30f8-3708-84d1-e619aef4d8f4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/servers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/ExtraEnergySword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/recipes/emeraldboots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/recipes/emeraldchestplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/recipes/emeraldhelmet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/recipes/emeraldleggings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Five-Elements-Combat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVW.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/AVW.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/event/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/event/WarEffort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldSword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AVW.iws" beforeDir="false" afterPath="$PROJECT_DIR$/AVW.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/data/Mineshaft.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/data/Mineshaft.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/region/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/region/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/region/r.1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/region/r.1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/region/r.1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/新的世界-/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/新的世界-/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldBoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldBoots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldChestplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldChestplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldHelmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldHelmet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldLeggings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/EmeraldLeggings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineBoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineBoots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineChestplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineChestplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineHelmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineHelmet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineLeggings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/PrismarineLeggings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/SteveMegaSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/item/SteveMegaSword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/register/ItemsRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/register/ItemsRegister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/register/ModelRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/AmazingRabbit/fivecombat/register/ModelRegister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/lang/en_us.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/lang/zh_cn.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/lang/zh_cn.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/textures/items/prismarineleggings.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/textures/items/prismarineleggings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/textures/models/armor/emerald_layer_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/fivecombat/textures/models/armor/emerald_layer_1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -369,6 +265,9 @@
       <workItem from="1586923364638" duration="152000" />
       <workItem from="1586942839672" duration="3224000" />
       <workItem from="1587026496853" duration="4061000" />
+      <workItem from="1587102881945" duration="1187000" />
+      <workItem from="1587274254388" duration="4727000" />
+      <workItem from="1587301077588" duration="1342000" />
     </task>
     <servers />
   </component>
@@ -397,6 +296,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586778974106" />
+    <state x="730" y="387" width="459" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587301739528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="387" width="459" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587301739528" />
     <state x="556" y="86" key="CommitChangelistDialog2" timestamp="1586943184954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -429,6 +332,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586178480311" />
+    <state x="654" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587301483041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587301483041" />
     <state x="334" y="189" key="new project wizard" timestamp="1586526726777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

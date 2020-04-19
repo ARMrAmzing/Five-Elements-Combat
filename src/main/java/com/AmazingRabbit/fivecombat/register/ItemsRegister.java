@@ -17,6 +17,7 @@ public class ItemsRegister {
     public static final ItemArmor EMERALDCHESTPLATE = new EmeraldChestplate();
     public static final ItemArmor EMERALDLEGGINGS = new EmeraldLeggings();
     public static final ItemArmor EMERALDBOOTS = new EmeraldBoots();
+    public static final ItemSword EMERALDSWORD = new EmeraldSword();
     public static final ItemArmor PRISMARINEHELMET = new PrismarineHelmet();
     public static final ItemArmor PRISMARINECHESTPLATE = new PrismarineChestplate();
     public static final ItemArmor PRISMARINELEGGINGS = new PrismarineLeggings();
@@ -34,7 +35,7 @@ public class ItemsRegister {
     public static void registerItems(RegistryEvent.Register<Item> event) {
         event.getRegistry().registerAll(
                 STEVEMEGASWORD,EXTRAENERGYSWORD,PRISMARINEHELMET,PRISMARINECHESTPLATE,PRISMARINELEGGINGS,PRISMARINEBOOTS,LEVEL1COMBATCORE,LEVEL2COMBATCORE,LEVEL3COMBATCORE,
-                EMERALDHELMET,EMERALDCHESTPLATE,EMERALDLEGGINGS,EMERALDBOOTS,REDDIAMOND
+                EMERALDHELMET,EMERALDCHESTPLATE,EMERALDLEGGINGS,EMERALDBOOTS,EMERALDSWORD,REDDIAMOND
         );
     }
 }
